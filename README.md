@@ -109,7 +109,6 @@ The specialization consists of **5 in-depth courses** designed to provide a stro
 
 [🔗 View Final Certificate on Coursera](https://coursera.org/share/efe3c71391d6c6dfe5edf6f2abe08e57)
 
-
 ---
 ر---
 ## Individual Course Certificates
