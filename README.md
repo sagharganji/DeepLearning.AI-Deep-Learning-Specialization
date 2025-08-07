@@ -1,6 +1,6 @@
 # DeepLearning.AI Deep Learning Specialization
 
-![DeepLearning.AI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/DeepLearning.AI_Logo.png/600px-DeepLearning.AI_Logo.png)
+![DeepLearning.AI Logo](https://learn.deeplearning.ai/assets/dlai-logo.png)
 
 This repository contains my complete coursework and practical implementations for the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by [DeepLearning.AI](https://www.deeplearning.ai/), taught by [Andrew Ng](https://www.andrewng.org/), hosted on [Coursera](https://www.coursera.org/).
 
