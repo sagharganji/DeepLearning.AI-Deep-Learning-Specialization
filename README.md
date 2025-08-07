@@ -105,9 +105,10 @@ The specialization consists of **5 in-depth courses** designed to provide a stro
 
 ## Certificate
 
-![Deep Learning Specialization Certificate](https://coursera.org/verify/specialization/EXWQEQN0G6FP1/image)
+[![Deep Learning Specialization Certificate](./Assets/Coursera%20EWXEQN0G6FP1.pdf.jpg)](https://coursera.org/share/efe3c71391d6c6dfe5edf6f2abe08e57)
 
-[View Final Certificate on Coursera](https://coursera.org/verify/specialization/EWXEQN0G6FP1)
+[🔗 View Final Certificate on Coursera](https://coursera.org/share/efe3c71391d6c6dfe5edf6f2abe08e57)
+
 
 ---
 ر---
