@@ -105,11 +105,19 @@ The specialization consists of **5 in-depth courses** designed to provide a stro
 
 ## Certificate
 
-[![View Certificate](https://github.com/sagharganji/DeepLearning.AI-Deep-Learning-Specialization/assets/5bd1f6f0-e3b9-4001-b571-3e18c1fc7ede)](https://coursera.org/share/efe3c71391d6c6dfe5edf6f2abe08e57)
+![Deep Learning Specialization Certificate](https://coursera.org/verify/specialization/EXWQEQN0G6FP1/image)
 
-[View on Coursera](https://coursera.org/share/efe3c71391d6c6dfe5edf6f2abe08e57)
+[View Final Certificate on Coursera](https://coursera.org/verify/specialization/EWXEQN0G6FP1)
 
 ---
+ر---
+## Individual Course Certificates
+
+1. [Neural Networks and Deep Learning](https://coursera.org/share/7ce80455bbb6091e6b247f1994c7b48b)  
+2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/ed90f2061995f81238d1d23e2f5b6d7b)  
+3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/2TV4JPNI5RVT)  
+4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/XX877OGKBVDW)  
+5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/MPXWYHQC7RZV)
 
 ## What I Gained
 
